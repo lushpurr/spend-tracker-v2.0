@@ -1,3 +1,4 @@
+@import "tailwindcss";
 body {
     margin: 0;
     background: linear-gradient(180deg, rgb(117, 81, 194), rgb(255, 255, 255));
@@ -63,3 +64,5 @@ body {
     font-weight: 800;
     text-decoration: none;
   }
+
+ 
